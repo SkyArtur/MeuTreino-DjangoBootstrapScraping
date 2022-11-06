@@ -1,0 +1,12 @@
+venv
+
+.idea
+
+Perfil
+
+msedgedriver.exe
+
+static
+
+base/db.sqlite3
+
